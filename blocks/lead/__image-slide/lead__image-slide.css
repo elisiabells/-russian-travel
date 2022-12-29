@@ -1,0 +1,5 @@
+.lead__image-slide {
+    display: flex;
+    flex-direction: column;
+}
+

@@ -1,0 +1,26 @@
+.cover__image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../../images/cover-background.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 740px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__image {
+        min-height: 640px;
+        width: 100%;
+    }
+} 
+@media screen and (max-width: 768px) {
+    .cover__image {
+        min-height: 480px;
+    }
+} 
+@media screen and (max-width: 425px) {
+    .cover__image {
+        min-height: 200px;
+    }
+} 

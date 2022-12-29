@@ -1,0 +1,15 @@
+.link {
+    color: gray;
+    text-decoration: none;
+    transition: color 0.5s ease 1s;
+    opacity: 1;
+  }
+
+  .link:hover {
+    text-decoration: underline;
+    opacity: 0.2;
+  }
+
+  .link:focus {
+    text-decoration: underline;
+}
