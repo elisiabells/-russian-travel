@@ -8,3 +8,10 @@
     text-decoration: underline;
     margin: 0;
 }
+
+@media screen and (max-width: 425px) {
+    .place__website-link {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

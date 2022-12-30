@@ -1,5 +1,5 @@
 .place__text {
-    font-family: "Inter", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 1.12rem;
     font-style: normal;
     font-weight: 400;
@@ -26,9 +26,11 @@
         line-height: 26px;
     }
 }
+
 @media screen and (max-width: 425px) {
     .place__text {
-        margin: 0 16px 0;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }
 

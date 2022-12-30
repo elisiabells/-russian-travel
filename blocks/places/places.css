@@ -7,13 +7,17 @@
         margin: 92px 48px 0;
     }
 }
+
 @media screen and (max-width: 768px) {
     .places {
         margin: 88px 24px 0;
     }
 }
+
 @media screen and (max-width: 425px) {
     .places {
-        margin: 64px 16px 0;
+        margin-top: 64px;
+        margin-left: 0;
+        margin-right: 0;
     }
 }

@@ -3,13 +3,13 @@
     text-decoration: none;
     transition: color 0.5s ease 1s;
     opacity: 1;
-  }
+}
 
-  .link:hover {
+.link:hover {
     text-decoration: underline;
     opacity: 0.2;
-  }
+}
 
-  .link:focus {
+.link:focus {
     text-decoration: underline;
 }
