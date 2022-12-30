@@ -2,4 +2,7 @@
     font-family: 'Inter', sans-serif;
     font-size: 16px;
     background-color: #2a2c2f;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
 }
