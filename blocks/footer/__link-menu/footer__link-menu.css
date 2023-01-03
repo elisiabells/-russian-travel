@@ -7,7 +7,7 @@
 }
 
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 500px) {
     .footer__link-menu {
         margin-right: 0;
         margin-bottom: 32px;

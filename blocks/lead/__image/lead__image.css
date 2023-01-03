@@ -1,6 +1,7 @@
 .lead__image {
     object-fit: contain;
     margin-top: 64px;
+    width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
