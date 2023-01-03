@@ -1,13 +1,13 @@
 .link {
-    color: gray;
-    text-decoration: none;
-    transition: color 0.5s ease 1s;
+  color: gray;
+  text-decoration: none;
+  transition: color 0.5s ease 1s;
 }
-
+  
 .link:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
-
+  
 .link:focus {
-    text-decoration: underline;
+  text-decoration: underline;
 }

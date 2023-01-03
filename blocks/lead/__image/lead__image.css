@@ -1,23 +1,23 @@
 .lead__image {
-    object-fit: contain;
-    margin-top: 64px;
-    width: 100%;
+  object-fit: contain;
+  margin-top: 64px;
+  width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
-    .lead__image {
-        margin-top: 56px;
-    }
+  .lead__image {
+    margin-top: 56px;
+  }
 }
 
 @media screen and (max-width: 768px) {
-    .lead__image {
-        width: 100%;
-    }
+  .lead__image {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 425px) {
-    .lead__image {
-        margin-top: 40px;
-    }
+  .lead__image {
+    margin-top: 40px;
+  }
 }

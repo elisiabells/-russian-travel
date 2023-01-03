@@ -1,18 +1,16 @@
 .footer__link-menu {
-    margin-right: 18px;
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  color: #fff;
+  text-decoration: none;
 }
 
-.footer__link-menu:last-child {
-    margin: 0;
-}
-
-
-@media screen and (max-width: 500px) {
-    .footer__link-menu {
-        margin-right: 0;
-        margin-bottom: 32px;
-    }
-    .footer__link-menu:last-child {
-        margin-bottom: 0;
-    }
+@media screen and (max-width: 320px) {
+  .footer__link-menu {
+    font-size: 1.5rem;
+    line-height: 24px;
+  }
 }

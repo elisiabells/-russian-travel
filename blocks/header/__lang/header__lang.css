@@ -1,15 +1,15 @@
 .header__lang {
-    font-family: 'Inter', sans-serif;
-    color: #fff;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.5rem;
-    line-height: 1.75;
-    margin-left: 18px;
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.75;
+  margin-left: 18px;
 }
 
 @media screen and (max-width: 425px) {
-    .header__lang {
-        font-size: 1.12rem;
-    }
+  .header__lang {
+    font-size: 1.12rem;
+  }
 }

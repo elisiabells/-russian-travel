@@ -1,18 +1,18 @@
 .place__website-url {
-    font-family: 'Inter', sans-serif;
-    font-size: .75rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 12px;
-    letter-spacing: 2px;
-    color: #aaa;
-    margin: 0;
-    margin-bottom: 12px;
+  font-family: 'Inter', sans-serif;
+  font-size: .75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaa;
+  margin: 0;
+  margin-bottom: 12px;
 }
 
 @media screen and (max-width: 425px) {
-    .place__website-url {
-        margin-left: 16px;
-        margin-right: 16px;
-    }
+  .place__website-url {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }
