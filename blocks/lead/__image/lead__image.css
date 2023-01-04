@@ -1,12 +1,15 @@
 .lead__image {
   object-fit: contain;
   margin-top: 64px;
-  width: 100%;
+  max-width: 984px;
+  max-height: 615px;
 }
 
 @media screen and (max-width: 1024px) {
   .lead__image {
     margin-top: 56px;
+    max-width: 928px;
+    max-height: 580px;
   }
 }
 
