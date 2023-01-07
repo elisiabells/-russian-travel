@@ -20,7 +20,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .footer__link-menu {
+  .footer__link {
     font-size: 1.5rem;
     line-height: 24px;
   }
