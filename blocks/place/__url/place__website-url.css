@@ -1,4 +1,4 @@
-.place__website-url {
+.place__url {
   font-size: .75rem;
   font-style: normal;
   font-weight: 400;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 425px) {
-  .place__website-url {
+  .place__url {
     margin-left: 16px;
     margin-right: 16px;
   }

@@ -1,14 +1,18 @@
-.header__lang {
+.header__link {
   color: #fff;
   font-style: normal;
   font-weight: 400;
   font-size: 1.5rem;
   line-height: 1.75;
-  margin: 0;
+  margin-right: 18px;
+}
+
+.header__link:last-child {
+  margin-right: 0;
 }
 
 @media screen and (max-width: 425px) {
-  .header__lang {
+  .header__link {
     font-size: 1.12rem;
   }
 }
