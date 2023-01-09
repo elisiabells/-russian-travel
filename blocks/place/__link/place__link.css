@@ -1,16 +1,22 @@
 .place__link {
   font-style: normal;
   font-weight: 400;
-  font-size: 1.12rem;
+  font-size: 1.125rem;
   line-height: 22px;
   color: #fff;
   text-decoration: underline;
   margin: 0;
+}
+@media screen and (max-width: 480px) {
+  .place__link-baikal {
+    font-size: .98rem;
+  }
 }
 
 @media screen and (max-width: 425px) {
   .place__link {
     margin-left: 16px;
     margin-right: 16px;
+    font-size: 1.125rem;
   }
 }
